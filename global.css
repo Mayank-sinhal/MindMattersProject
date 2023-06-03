@@ -1,0 +1,26 @@
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-montserrat: Montserrat;
+  --font-dm-sans: "DM Sans";
+
+  /* font sizes */
+  --font-size-sm: 1rem;
+  --font-size-base: 1.25rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray: #413d45;
+  --orange: #ff7e1d;
+  --color-black: #000;
+  --minm: #5661af;
+
+  /* Paddings */
+  --padding-xs: 0.75rem;
+  --padding-sm: 0.82rem;
+  --padding-md: 1.86rem;
+  --padding-lg: 1.95rem;
+
+  /* border radiuses */
+  --br-md: 12px;
+}
