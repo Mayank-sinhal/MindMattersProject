@@ -812,3 +812,8 @@ body {
   color: var(--color-slateblue);
   font-family: var(--font-poppins);
 }
+
+button {
+  all: unset;
+  cursor: pointer;
+}
